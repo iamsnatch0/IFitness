@@ -1,4 +1,4 @@
-I had a lot of fun creating a fitness prototype website. :)
+Having fun creating a fitness prototype website. :)
 
 # IFitness
 
@@ -33,9 +33,15 @@ The website can be deployed to any web server that supports HTML, CSS and JavaSc
 ## Author 
 
 The website was created by Milvin Boadi and is open for contribution from the community.
-Acknowledgements
-- Bootstrap for providing a responsive front-end framework Font Awesome for providing beautiful icons Google 
+
+## Acknowledgements
+- Bootstrap for providing a responsive front-end framework 
+- Font Awesome for providing beautiful icons Google 
 - Fonts for providing a clean, modern typography. 
+- https://icons-for-free.com/ for their images
+- Champion, Gymshark, Lonsdale, Nike for their logo
+- https://www.vectorstock.com/royalty-free-vector/fitness-tracking-app-on-mobile-phone-screen-vector-23642843 for their phone image
+
 
 
 
